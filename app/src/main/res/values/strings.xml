@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">guessing_numbers</string>
+
+    <string name="input_number">Input range of your number</string>
+    <string name="start_diapason">from</string>
+    <string name="end_diapason">to</string>
+    <string name="calculate">CALCULATE</string>
+
+    <string name="number_greater_than">Is your number greater than</string>
+    <string name="result">Your number is</string>
+    <string name="final_guess">Is your number</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+</resources>
